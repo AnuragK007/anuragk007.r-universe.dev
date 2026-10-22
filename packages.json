@@ -4,6 +4,11 @@
     "package": "mylib2",
     "url": "https://github.com/AnuragK007/ts",
     "subdir": "mylib2"
-  }
+  },
+  {
+  "package": "ts",
+  "url": "https://github.com/AnuragK007/ts",
+  "subdir": "ts"
+}
 ]
 
