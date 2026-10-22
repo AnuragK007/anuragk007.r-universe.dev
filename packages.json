@@ -1,9 +1,9 @@
 
 [
   {
-    "package": "mylib",
+    "package": "mylib2",
     "url": "https://github.com/AnuragK007/ts",
-    "subdir": "mylib"
+    "subdir": "mylib2"
   }
 ]
 
