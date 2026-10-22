@@ -6,10 +6,9 @@
     "subdir": "mylib2"
   },
   {
-  "package": "ts",
-  "url": "https://github.com/AnuragK007/ts",
-  "subdir": "ts"
-}
+    "package": "ts",
+    "url": "https://github.com/AnuragK007/ts",
+    "subdir": "ts"
+  }
 ]
-
-
+    
